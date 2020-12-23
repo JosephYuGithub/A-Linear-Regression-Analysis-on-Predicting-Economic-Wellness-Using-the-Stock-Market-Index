@@ -1,0 +1,1 @@
+# A-Linear-Regression-Analysis-on-Predicting-Economic-Wellness-Using-the-Stock-Market-Index
